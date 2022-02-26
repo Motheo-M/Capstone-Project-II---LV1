@@ -39,6 +39,6 @@ The **_view my tasks_** option allows the user logged in to see **all** their as
 The **_exit_** option let's the user log off the software program.
 
 #### Part 2
-This part has all the functionalites of the 1st part. The **only 2 differences**.
+This part has all the functionalites of the 1st part. The **only 2 differences** are:
 1. **Only the admin user** can register users to the software programme.
 2. **Only the admin user** can view **statistics** (added as a menu option) that shows **_both_** the _total number of tasks_ assigned and the _total number of users_.
