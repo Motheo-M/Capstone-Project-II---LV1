@@ -6,10 +6,10 @@ This is my second project that demonstates my skills as a software engineer.
 2. How does it work
 
 ### What is the project
-This project is a software program that is designed to help a small business assign and manage tasks for each memeber of the business.
+This project is a software program that is designed to help a small business assign and manage tasks for each member of the business.
 This project consists of 3 main files.
 1. The main program python file (The other main file is part 2 of the same project)
-2. The user text file that has a list of the registered users and thier individual passwords
+2. The user text file that has a list of the registered users and their individual passwords
 3. The tasks text file that has all the neccessary details of each assigned task.
 
 ### How does it work
